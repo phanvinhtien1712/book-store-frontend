@@ -1,0 +1,202 @@
+[
+  {
+    "title": "Cách phát triển cửa hàng trực tuyến của bạn",
+    "description": "Tìm hiểu các chiến lược tốt nhất để phát triển cửa hàng trực tuyến trong thị trường cạnh tranh hiện nay.",
+    "category": "Kinh Doanh",
+    "trending": true,
+    "coverImage": "book-1.png",
+    "oldPrice": 29.99,
+    "newPrice": 19.99,
+    "_id": 1
+  },
+  {
+    "title": "Top 10 sách tiểu thuyết hay nhất năm nay",
+    "description": "Danh sách tuyển chọn những cuốn tiểu thuyết hay nhất đang thịnh hành trong năm nay.",
+    "category": "Tiểu thuyết",
+    "trending": true,
+    "coverImage": "book-2.png",
+    "oldPrice": 24.99,
+    "newPrice": 14.99,
+    "_id": 2
+  },
+  {
+    "title": "Thành thạo SEO trong năm 2024",
+    "description": "Mẹo và thủ thuật giúp cải thiện SEO và tăng thứ hạng trên công cụ tìm kiếm.",
+    "category": "Kinh Doanh",
+    "trending": true,
+    "coverImage": "book-3.png",
+    "oldPrice": 39.99,
+    "newPrice": 29.99,
+    "_id": 3
+  },
+  {
+    "title": "Những nền tảng thương mại điện tử tốt nhất",
+    "description": "Hướng dẫn toàn diện để chọn nền tảng thương mại điện tử tốt nhất cho năm 2024.",
+    "category": "Kinh Doanh",
+    "trending": false,
+    "coverImage": "book-4.png",
+    "oldPrice": 49.99,
+    "newPrice": 39.99,
+    "_id": 4
+  },
+  {
+    "title": "Những cuốn sách phi tiểu thuyết bạn nên thử",
+    "description": "Gợi ý những cuốn sách phi tiểu thuyết nên có trong danh sách đọc của bạn.",
+    "category": "books",
+    "trending": true,
+    "coverImage": "book-5.png",
+    "oldPrice": 19.99,
+    "newPrice": 9.99,
+    "_id": 5
+  },
+  {
+    "title": "Hướng dẫn toàn diện về tiếp thị kỹ thuật số",
+    "description": "Cẩm nang hoàn chỉnh về các chiến lược tiếp thị kỹ thuật số cho năm 2024.",
+    "category": "Kinh Doanh",
+    "trending": false,
+    "coverImage": "book-6.png",
+    "oldPrice": 44.99,
+    "newPrice": 34.99,
+    "_id": 6
+  },
+  {
+    "title": "Những ngày đầu tiên",
+    "description": "Katie đang lái xe đến chỗ làm vào một buổi sáng đẹp trời thì một xác sống nhảy vào xe cô và cố gắng ăn thịt cô. Cùng buổi sáng hôm đó, Jenni mở cửa phòng và phát hiện chồng cô đang ăn thịt đứa con trai nhỏ của họ.",
+    "category": "Kinh dị",
+    "trending": true,
+    "coverImage": "book-7.png",
+    "oldPrice": 59.99,
+    "newPrice": 49.99,
+    "_id": 7
+  },
+  {
+    "title": "Đấu trường sinh tử",
+    "description": "Bạn có thể sống sót một mình trong thiên nhiên hoang dã khi tất cả mọi người đều muốn bạn không thể sống đến sáng hôm sau?",
+    "category": "Tiểu thuyết",
+    "trending": true,
+    "coverImage": "book-8.png",
+    "oldPrice": 21.99,
+    "newPrice": 16.99,
+    "_id": 8
+  },
+  {
+    "title": "Harry Potter và Hội Phượng Hoàng",
+    "description": "Harry Potter sắp bắt đầu năm học thứ năm tại Trường Phù thủy và Pháp sư Hogwarts. Khác với hầu hết các cậu bé, Harry chưa bao giờ thích kỳ nghỉ hè của mình.",
+    "category": "Phiêu lưu",
+    "trending": false,
+    "coverImage": "book-9.png",
+    "oldPrice": 27.99,
+    "newPrice": 18.99,
+    "_id": 9
+  },
+  {
+    "title": "Kiêu hãnh và định kiến",
+    "description": "Cuộc đối đầu lãng mạn giữa cô nàng mạnh mẽ Elizabeth và chàng Darcy kiêu ngạo là màn đấu trí văn minh đầy hấp dẫn.",
+    "category": "Tiểu thuyết",
+    "trending": true,
+    "coverImage": "book-10.png",
+    "oldPrice": 14.99,
+    "newPrice": 10.99,
+    "_id": 10
+  },
+  {
+    "title": "Giết con chim nhại",
+    "description": "Tiểu thuyết không thể quên về tuổi thơ ở một thị trấn nhỏ phía Nam nước Mỹ và cuộc khủng hoảng lương tâm đã làm rung chuyển nơi ấy. 'Giết con chim nhại' trở thành cuốn sách bán chạy ngay lập tức.",
+    "category": "Tiểu thuyết",
+    "trending": true,
+    "coverImage": "book-11.png",
+    "oldPrice": 32.99,
+    "newPrice": 25.99,
+    "_id": 11
+  },
+  {
+    "title": "Lỗi tại những vì sao",
+    "description": "Dù phép màu y học giúp khối u của Hazel thu nhỏ lại, cô vẫn luôn biết mình là bệnh nhân giai đoạn cuối, với chương cuối đời đã được viết ngay khi chẩn đoán.",
+    "category": "Kinh Doanh",
+    "trending": true,
+    "coverImage": "book-12.png",
+    "oldPrice": 19.99,
+    "newPrice": 9.99,
+    "_id": 12
+  },
+  {
+    "title": "Chân dung Dorian Gray",
+    "description": "Tác phẩm tiểu thuyết duy nhất của Oscar Wilde kể về một chàng trai bán linh hồn để có được tuổi trẻ và sắc đẹp vĩnh cửu.",
+    "category": "Kinh dị",
+    "trending": true,
+    "coverImage": "book-13.png",
+    "oldPrice": 26.99,
+    "newPrice": 21.99,
+    "_id": 13
+  },
+  {
+    "title": "Cây táo yêu thương",
+    "description": "'Ngày xửa ngày xưa có một cái cây... và nó rất yêu một cậu bé.' Một câu chuyện sâu sắc, được viết và minh họa tuyệt đẹp bởi Shel Silverstein tài năng.",
+    "category": "Tiểu thuyết",
+    "trending": false,
+    "coverImage": "book-14.png",
+    "oldPrice": 34.99,
+    "newPrice": 24.99,
+    "_id": 14
+  },
+  {
+    "title": "Cuốn theo chiều gió",
+    "description": "Scarlett O'Hara – cô tiểu thư xinh đẹp và được nuông chiều của một điền trang ở Georgia – phải dùng mọi cách để thoát khỏi cảnh nghèo khó sau cuộc hành quân của Sherman ra biển.",
+    "category": "Tiểu thuyết",
+    "trending": false,
+    "coverImage": "book-15.png",
+    "oldPrice": 22.99,
+    "newPrice": 12.99,
+    "_id": 15
+  },
+  {
+    "title": "Kẻ trộm tia chớp",
+    "description": "Percy Jackson là một đứa trẻ tốt, nhưng cậu không thể tập trung học tập hay kiểm soát cơn giận của mình. Và gần đây, khi học nội trú, mọi thứ trở nên tồi tệ hơn – cậu chắc chắn giáo viên toán của mình biến thành quái vật và cố giết cậu.",
+    "category": "Tiểu thuyết",
+    "trending": false,
+    "coverImage": "book-16.png",
+    "oldPrice": 24.99,
+    "newPrice": 19.99,
+    "_id": 16
+  },
+  {
+    "title": "Cuộc phiêu lưu của Alice ở xứ sở thần tiên",
+    "description": "Khi Alice thấy một con thỏ trắng rút đồng hồ ra khỏi túi áo, cô quyết định đi theo nó, mở ra chuỗi sự kiện kỳ lạ. Cuốn sách nhỏ này chứa toàn bộ câu chuyện đảo ngược kỳ diệu về cuộc phiêu lưu của Alice.",
+    "category": "Phiêu lưu",
+    "trending": true,
+    "coverImage": "book-17.png",
+    "oldPrice": 49.99,
+    "newPrice": 39.99,
+    "_id": 17
+  },
+  {
+    "title": "Dị biệt",
+    "description": "Vào một ngày định mệnh hằng năm, tất cả những người mười sáu tuổi phải chọn phe mà họ sẽ theo suốt đời. Với Beatrice, đó là lựa chọn giữa ở lại với gia đình hay sống đúng với con người thật của mình.",
+    "category": "Kinh Doanh",
+    "trending": true,
+    "coverImage": "book-18.png",
+    "oldPrice": 18.99,
+    "newPrice": 12.99,
+    "_id": 18
+  },
+  {
+    "title": "Nhà giả kim",
+    "description": "Kiệt tác của Paulo Coelho kể câu chuyện huyền bí về Santiago, một chàng chăn cừu xứ Andalusia khao khát đi tìm kho báu trên thế gian.",
+    "category": "Phiêu lưu",
+    "trending": true,
+    "coverImage": "book-19.png",
+    "oldPrice": 35.99,
+    "newPrice": 27.99,
+    "_id": 19
+  },
+  {
+    "title": "Bốn nghìn tuần",
+    "description": "Không ai cần nhắc rằng chúng ta không có đủ thời gian. Chúng ta luôn vật lộn với danh sách việc cần làm, hộp thư quá tải, cân bằng công việc và cuộc sống, và cuộc chiến với sự phân tâm.",
+    "category": "Kinh Doanh",
+    "trending": false,
+    "coverImage": "book-20.png",
+    "oldPrice": 24.99,
+    "newPrice": 14.99,
+    "_id": 20
+  }
+]
